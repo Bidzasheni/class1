@@ -1,0 +1,80 @@
+    body {
+        font-size: 16px;
+        color: rgb(2, 2, 12);
+        font-family: arial, helvetica, sans-serif;
+        text-align: center;
+        background-image: url("http://www.nmgncp.com/data/out/162/4985664-gradient-wallpapers.png");
+        background-repeat: repeat;
+    }
+    h2 {
+        font-size: 2em;
+        font-family: italic;
+        margin: 10px;
+        padding: 40px;
+        background-color: #ccc;
+        border-style: solid;
+        border-width: 3px;
+        border-left-width: 10px;
+        border-right-width: 10px;
+        border-color: rgb(83, 67, 67);
+    }
+    .center {
+        text-align: center;
+        list-style-position: inside;
+    
+    }
+    .tableh{
+        border-style: dashed;
+        border-width: 2px;
+        border-left-width: 10px;
+        border-right-width: 10px;
+        border-color: rgb(83, 67, 67);
+    }
+    p {
+        letter-spacing: 0.5em;
+        word-spacing: 2em;
+        line-height: 1.5;
+        text-align: center;
+    }
+    table {
+        border-color: black;
+        text-align: center;
+    }
+    strong {
+        font-style: italic;
+        text-transform: uppercase;
+        text-decoration: underline;
+    }
+
+    .capbox {
+        background-color: #92D433;
+        border: #B3E272 0px solid;
+        border-width: 0px 12px 0px 0px;
+        display: inline-block;
+        *display: inline; zoom: 1; /* FOR IE7-8 */
+        padding: 8px 40px 8px 8px;
+        }
+    
+    .capbox-inner {
+        font: bold 11px arial, sans-serif;
+        color: #000000;
+        background-color: #DBF3BA;
+        margin: 5px auto 0px auto;
+        padding: 3px;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        }
+    
+    #CaptchaDiv {
+        font: bold 17px verdana, arial, sans-serif;
+        font-style: italic;
+        color: #000000;
+        background-color: #FFFFFF;
+        padding: 4px;
+        -moz-border-radius: 4px;
+        -webkit-border-radius: 4px;
+        border-radius: 4px;
+        }
+    
+    #CaptchaInput { margin: 1px 0px 1px 0px; width: 135px; }
